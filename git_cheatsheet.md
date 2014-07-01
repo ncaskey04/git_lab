@@ -5,3 +5,4 @@ git add . : adds everything in the directory
 git commit -m : stages files/directories w/message
 git status: checks the status of a file
 git diff : checks the differences/changes made
+I'm going to make more changes now
